@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Divyansh%20Gahlaut&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Divyansh%20Gahlaut&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <div align="center">
 
 ## AI & Machine Learning Engineer | Data Analytics Enthusiast | Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Artificial+Intelligence;Machine+Learning;Data+Analytics;Python+%7C+C%2B%2B+%7C+SQL;FastAPI+%7C+React;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Machine+Learning;Data+Analytics;FastAPI+%7C+React+Developer;Python+%7C+C%2B%2B+%7C+SQL;Always+Learning+New+Things+🚀"/>
 
 <br>
 
@@ -27,40 +27,40 @@
 # 🚀 About Me
 
 - 🎓 B.Tech Computer Science Engineering (AI & ML)
-- 💡 Passionate about Artificial Intelligence, Machine Learning, Data Analytics and Software Development.
-- 🚀 Interested in building intelligent applications using AI and modern web technologies.
-- 🌱 Currently learning Advanced DSA, Deep Learning, FastAPI, React and System Design.
-- 🎯 Aspiring AI Engineer & Data Scientist.
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 📊 Interested in Data Analytics and Data Science
+- 🌐 Full Stack Developer using FastAPI & React
+- 💻 Strong interest in Data Structures & Algorithms
+- 🌱 Currently learning Deep Learning, System Design and AI Agents
+- 🎯 Aspiring AI Engineer & Data Scientist
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,sql"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,sql,html,css,javascript"/>
 </p>
 
-### AI & Data Science
+### 🤖 AI / Machine Learning
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
 </p>
 
-- Scikit-Learn
-- Pandas
-- NumPy
-- Matplotlib
-- Power BI
+<p align="center">
+Scikit-Learn • Pandas • NumPy • Matplotlib • Power BI
+</p>
 
-### Web Development
+### 🌐 Web Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,fastapi,flask,firebase"/>
 </p>
 
-### Databases & Tools
+### 🗄 Database & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,docker,vscode"/>
@@ -72,21 +72,23 @@
 
 ## 🤖 HireAI
 
-AI-powered recruitment platform featuring:
+AI-powered recruitment platform featuring
 
-- Resume Parsing
-- AI Resume Generation
+- Resume Parser
+- AI Resume Generator
 - Skill Assessment
 - Mock Interview
 - Job Recommendation
 
-**Tech Stack:** Flask • Vue.js • Firebase • Gemini API
+**Tech Stack**
+
+Flask • Vue.js • Firebase • Gemini API
 
 ---
 
-## 🌦️ WeatherAI Dashboard
+## 🌦 WeatherAI Dashboard
 
-Machine Learning weather prediction dashboard built using:
+Machine Learning weather prediction system using
 
 - Random Forest
 - FastAPI
@@ -98,7 +100,7 @@ Machine Learning weather prediction dashboard built using:
 
 ## 🎬 ReelSense AI
 
-Recommendation system using:
+Recommendation System featuring
 
 - Content-Based Filtering
 - Collaborative Filtering
@@ -108,18 +110,18 @@ Recommendation system using:
 
 ## ✋ Hand Gesture Recognition
 
-Real-time Computer Vision application built using:
+Real-time Computer Vision Application
 
+- Python
 - OpenCV
 - MediaPipe
-- Python
 
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DivyanshGahlaut&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=DivyanshGahlaut&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -132,12 +134,20 @@ Real-time Computer Vision application built using:
 
 ---
 
-# 🏅 Certifications
+# 🐍 Contribution Snake
 
-- Microsoft Azure Fundamentals (AZ-900)
-- Oracle Certified Professional – Data Science on OCI
-- Google Foundations: Data, Data, Everywhere
-- BSNL Industrial Training
+<p align="center">
+<img src="https://raw.githubusercontent.com/DivyanshGahlaut/DivyanshGahlaut/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p>
+
+---
+
+# 🏆 Certifications
+
+- 🏅 Microsoft Azure Fundamentals (AZ-900)
+- 🏅 Oracle Certified Professional – Data Science on OCI
+- 🏅 Google Foundations: Data, Data, Everywhere
+- 🏅 BSNL Industrial Training
 
 ---
 
@@ -153,9 +163,9 @@ Real-time Computer Vision application built using:
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting!
 
-*"Building intelligent solutions, one project at a time."*
+### *"Building intelligent solutions, one project at a time."*
 
 </div>
 
