@@ -134,13 +134,6 @@ Real-time Computer Vision Application
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/DivyanshGahlaut/DivyanshGahlaut/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</p>
-
----
 
 # 🏆 Certifications
 
