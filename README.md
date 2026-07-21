@@ -4,17 +4,18 @@
 
 ## AI & Machine Learning Engineer | Data Analytics Enthusiast | Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Artificial+Intelligence;Machine+Learning;Data+Analytics;FastAPI+%7C+React;Python+%7C+C%2B%2B+%7C+SQL;Always+Learning+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Artificial+Intelligence;Machine+Learning;Data+Analytics;Python+%7C+C%2B%2B+%7C+SQL;FastAPI+%7C+React;Always+Learning+New+Things+%F0%9F%9A%80"/>
 
-<p>
+<br>
+
 <a href="https://www.linkedin.com/in/divyansh-gahlaut-89812a355/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:divyanshgahlaut7@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:divyanshgahlaut7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=DivyanshGahlaut&style=for-the-badge&color=0e75b6"/>
 
@@ -22,131 +23,81 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🎓 B.Tech Computer Science Engineering (AI & ML)
-- 💡 Passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Full Stack Development.
-- 🔍 Interested in building intelligent software and solving real-world problems with data.
-- 🌱 Currently learning Advanced DSA, Deep Learning, FastAPI, React, and System Design.
-- 🎯 Aspiring AI Engineer and Data Scientist.
+- 💡 Passionate about Artificial Intelligence, Machine Learning, Data Analytics and Software Development
+- 🚀 Interested in building intelligent applications using AI and modern web technologies
+- 🌱 Currently learning Advanced DSA, Deep Learning, FastAPI, React and System Design
+- 🎯 Aspiring AI Engineer & Data Scientist
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### Languages
-
+**Languages**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,sql"/>
 </p>
 
-### AI & Data Science
-
+**AI & Data Science**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
-- Scikit-Learn
-- Pandas
-- NumPy
-- Matplotlib
-- Power BI
+`Scikit-Learn` `Pandas` `NumPy` `Matplotlib` `Power BI`
 
-### Web Development
-
+**Web Development**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,fastapi,flask,firebase"/>
 </p>
 
-### Database & Tools
-
+**Databases & Tools**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,docker,vscode"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🤖 HireAI
-
-AI-powered recruitment platform featuring:
-
-- Resume Parsing
-- AI Resume Generation
-- Skill Assessment
-- Mock Interview
-- Job Recommendation
-
-**Tech:** Flask • Vue.js • Firebase • Gemini API
-
----
+AI-powered recruitment platform featuring resume parsing, AI resume generation, skill assessment, mock interviews, and job recommendations.
+**Tech Stack:** Flask • Vue.js • Firebase • Gemini API
 
 ### 🌦️ WeatherAI Dashboard
-
-Machine learning weather prediction dashboard using:
-
-- Random Forest
-- FastAPI
-- React
-- OpenWeather API
-- Open-Meteo API
-
----
+Machine learning weather prediction dashboard built with Random Forest, FastAPI, React, OpenWeather API, and Open-Meteo API.
 
 ### 🎬 ReelSense AI
-
-Recommendation system using
-
-- Content-Based Filtering
-- Collaborative Filtering
-- Popularity-Based Ranking
-
----
+Recommendation system using content-based filtering, collaborative filtering, and popularity-based ranking.
 
 ### ✋ Hand Gesture Recognition
-
-Real-time Computer Vision application built using OpenCV and MediaPipe.
+Real-time computer vision application built using OpenCV, MediaPipe, and Python.
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DivyanshGahlaut&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshGahlaut&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DivyanshGahlaut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshGahlaut&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=DivyanshGahlaut&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DivyanshGahlaut&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshGahlaut&theme=tokyo-night"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DivyanshGahlaut&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DivyanshGahlaut&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-# 🏅 Certifications
+## 🏅 Certifications
 
 - Microsoft Azure Fundamentals (AZ-900)
 - Oracle Certified Professional – Data Science on OCI
@@ -155,27 +106,15 @@ Real-time Computer Vision application built using OpenCV and MediaPipe.
 
 ---
 
-# 📚 Currently Exploring
+## 📚 Currently Exploring
 
-- 🤖 AI Agents
-- 📊 Data Analytics
-- 🧠 Machine Learning
-- 💻 Data Structures & Algorithms
-- 🌍 Open Source
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/DivyanshGahlaut/DivyanshGahlaut/output/github-contribution-grid-snake.svg"/>
-</p>
+`AI Agents` `Data Analytics` `Machine Learning` `DSA` `Open Source`
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for stopping by!
+### ⭐ Thanks for visiting my profile!
 
 *"Building intelligent solutions, one project at a time."*
 
