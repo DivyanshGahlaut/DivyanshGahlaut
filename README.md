@@ -2,14 +2,11 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Divyansh Gahlaut
+## AI & Machine Learning Engineer | Data Analytics Enthusiast | Full Stack Developer
 
-### AI & Machine Learning Engineer | Data Analytics Enthusiast | Full Stack Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Artificial+Intelligence;Machine+Learning;Data+Analytics;FastAPI+%7C+React;Python+%7C+C%2B%2B+%7C+SQL;Always+Learning+🚀"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Student;Building+Intelligent+Applications;Data+Analytics+Enthusiast;Python+%7C+C%2B%2B+%7C+SQL;FastAPI+%7C+React+Developer;Always+Learning+Something+New+🚀"/>
-
-<br>
-
+<p>
 <a href="https://www.linkedin.com/in/divyansh-gahlaut-89812a355/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -17,10 +14,9 @@
 <a href="mailto:divyanshgahlaut7@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=DivyanshGahlaut&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=DivyanshGahlaut&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -28,72 +24,67 @@
 
 # 🚀 About Me
 
-🎓 **B.Tech Computer Science Engineering (AI & ML)**
-
-💡 Passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Full Stack Development.
-
-⚡ I enjoy developing AI-powered applications and solving real-world problems using data.
-
-🌱 **Currently Learning**
-
-- Advanced Data Structures & Algorithms
-- Machine Learning
-- Deep Learning
-- FastAPI
-- React
-- System Design
-
-🎯 **Career Goal**
-
-To become an AI Engineer / Data Scientist and build impactful AI solutions.
+- 🎓 B.Tech Computer Science Engineering (AI & ML)
+- 💡 Passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Full Stack Development.
+- 🔍 Interested in building intelligent software and solving real-world problems with data.
+- 🌱 Currently learning Advanced DSA, Deep Learning, FastAPI, React, and System Design.
+- 🎯 Aspiring AI Engineer and Data Scientist.
 
 ---
 
 # 💻 Tech Stack
 
+### Languages
+
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,cpp,sql"/>
-
-<img src="https://skillicons.dev/icons?i=react,fastapi,flask,firebase"/>
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
-
 </p>
 
-### AI / Data Science
+### AI & Data Science
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+</p>
+
 - Scikit-Learn
-- TensorFlow (Learning)
+- Pandas
+- NumPy
+- Matplotlib
 - Power BI
+
+### Web Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,fastapi,flask,firebase"/>
+</p>
+
+### Database & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,docker,vscode"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 HireAI
+### 🤖 HireAI
 
-AI-powered recruitment platform with
+AI-powered recruitment platform featuring:
 
-- Resume Parser
-- AI Resume Generator
-- Job Recommendation
+- Resume Parsing
+- AI Resume Generation
 - Skill Assessment
 - Mock Interview
+- Job Recommendation
 
 **Tech:** Flask • Vue.js • Firebase • Gemini API
 
 ---
 
-## 🌦 WeatherAI Dashboard
+### 🌦️ WeatherAI Dashboard
 
-Machine Learning powered weather prediction system
+Machine learning weather prediction dashboard using:
 
 - Random Forest
 - FastAPI
@@ -103,23 +94,19 @@ Machine Learning powered weather prediction system
 
 ---
 
-## 🎬 ReelSense AI
+### 🎬 ReelSense AI
 
-Recommendation System using
+Recommendation system using
 
 - Content-Based Filtering
 - Collaborative Filtering
-- Popularity Ranking
+- Popularity-Based Ranking
 
 ---
 
-## ✋ Hand Gesture Recognition
+### ✋ Hand Gesture Recognition
 
-Real-time Computer Vision project
-
-- OpenCV
-- MediaPipe
-- Python
+Real-time Computer Vision application built using OpenCV and MediaPipe.
 
 ---
 
@@ -138,9 +125,7 @@ Real-time Computer Vision project
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=DivyanshGahlaut&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -148,9 +133,7 @@ Real-time Computer Vision project
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshGahlaut&theme=tokyo-night"/>
-
 </p>
 
 ---
@@ -158,72 +141,43 @@ Real-time Computer Vision project
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=DivyanshGahlaut&theme=tokyonight&no-frame=true&margin-w=15"/>
-
 </p>
 
 ---
 
-# 📚 Certifications
+# 🏅 Certifications
 
-🏅 Microsoft Azure Fundamentals (AZ-900)
-
-🏅 Oracle Certified Professional – Data Science on OCI
-
-🏅 Google Foundations: Data, Data, Everywhere
-
-🏅 BSNL Industrial Training
+- Microsoft Azure Fundamentals (AZ-900)
+- Oracle Certified Professional – Data Science on OCI
+- Google Foundations: Data, Data, Everywhere
+- BSNL Industrial Training
 
 ---
 
-# 📖 Currently Working On
+# 📚 Currently Exploring
 
-🤖 AI Agents
-
-📊 Data Analytics Projects
-
-🧠 Machine Learning
-
-💻 DSA (LeetCode)
-
-🌍 Open Source
+- 🤖 AI Agents
+- 📊 Data Analytics
+- 🧠 Machine Learning
+- 💻 Data Structures & Algorithms
+- 🌍 Open Source
 
 ---
 
-# 📫 Connect With Me
+# 🐍 Contribution Snake
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/divyansh-gahlaut-89812a355/">
-
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:divyanshgahlaut7@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-
-</a>
-
-</p>
-
-<p align="center">
-
-📧 **divyanshgahlaut7@gmail.com**
-
-💼 **LinkedIn:** https://www.linkedin.com/in/divyansh-gahlaut-89812a355/
-
+<img src="https://raw.githubusercontent.com/DivyanshGahlaut/DivyanshGahlaut/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+<div align="center">
 
-### **"Code • Learn • Build • Repeat 🚀"**
+### ⭐ Thanks for stopping by!
+
+*"Building intelligent solutions, one project at a time."*
 
 </div>
 
