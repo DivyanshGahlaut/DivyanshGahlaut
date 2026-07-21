@@ -221,16 +221,6 @@ Real-time Computer Vision project
 
 ---
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/DivyanshGahlaut/DivyanshGahlaut/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-<div align="center">
-
 ### ⭐ Thanks for visiting my profile!
 
 ### **"Code • Learn • Build • Repeat 🚀"**
