@@ -4,15 +4,16 @@
 
 ## AI & Machine Learning Engineer | Data Analytics Enthusiast | Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Artificial+Intelligence;Machine+Learning;Data+Analytics;Python+%7C+C%2B%2B+%7C+SQL;FastAPI+%7C+React;Always+Learning+New+Things+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Artificial+Intelligence;Machine+Learning;Data+Analytics;Python+%7C+C%2B%2B+%7C+SQL;FastAPI+%7C+React;Always+Learning+New+Things+🚀"/>
 
 <br>
 
 <a href="https://www.linkedin.com/in/divyansh-gahlaut-89812a355/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:divyanshgahlaut7@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
@@ -23,81 +24,115 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 B.Tech Computer Science Engineering (AI & ML)
-- 💡 Passionate about Artificial Intelligence, Machine Learning, Data Analytics and Software Development
-- 🚀 Interested in building intelligent applications using AI and modern web technologies
-- 🌱 Currently learning Advanced DSA, Deep Learning, FastAPI, React and System Design
-- 🎯 Aspiring AI Engineer & Data Scientist
+- 💡 Passionate about Artificial Intelligence, Machine Learning, Data Analytics and Software Development.
+- 🚀 Interested in building intelligent applications using AI and modern web technologies.
+- 🌱 Currently learning Advanced DSA, Deep Learning, FastAPI, React and System Design.
+- 🎯 Aspiring AI Engineer & Data Scientist.
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-**Languages**
+### Languages
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,sql"/>
 </p>
 
-**AI & Data Science**
+### AI & Data Science
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
 </p>
 
-`Scikit-Learn` `Pandas` `NumPy` `Matplotlib` `Power BI`
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
 
-**Web Development**
+### Web Development
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,fastapi,flask,firebase"/>
 </p>
 
-**Databases & Tools**
+### Databases & Tools
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,docker,vscode"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 HireAI
-AI-powered recruitment platform featuring resume parsing, AI resume generation, skill assessment, mock interviews, and job recommendations.
+## 🤖 HireAI
+
+AI-powered recruitment platform featuring:
+
+- Resume Parsing
+- AI Resume Generation
+- Skill Assessment
+- Mock Interview
+- Job Recommendation
+
 **Tech Stack:** Flask • Vue.js • Firebase • Gemini API
-
-### 🌦️ WeatherAI Dashboard
-Machine learning weather prediction dashboard built with Random Forest, FastAPI, React, OpenWeather API, and Open-Meteo API.
-
-### 🎬 ReelSense AI
-Recommendation system using content-based filtering, collaborative filtering, and popularity-based ranking.
-
-### ✋ Hand Gesture Recognition
-Real-time computer vision application built using OpenCV, MediaPipe, and Python.
 
 ---
 
-## 📊 GitHub Stats
+## 🌦️ WeatherAI Dashboard
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DivyanshGahlaut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshGahlaut&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+Machine Learning weather prediction dashboard built using:
+
+- Random Forest
+- FastAPI
+- React
+- OpenWeather API
+- Open-Meteo API
+
+---
+
+## 🎬 ReelSense AI
+
+Recommendation system using:
+
+- Content-Based Filtering
+- Collaborative Filtering
+- Popularity-Based Ranking
+
+---
+
+## ✋ Hand Gesture Recognition
+
+Real-time Computer Vision application built using:
+
+- OpenCV
+- MediaPipe
+- Python
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=DivyanshGahlaut&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
+# 📈 Contribution Graph
+
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshGahlaut&theme=tokyo-night"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DivyanshGahlaut&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
 ---
 
-## 🏅 Certifications
+# 🏅 Certifications
 
 - Microsoft Azure Fundamentals (AZ-900)
 - Oracle Certified Professional – Data Science on OCI
@@ -106,9 +141,13 @@ Real-time computer vision application built using OpenCV, MediaPipe, and Python.
 
 ---
 
-## 📚 Currently Exploring
+# 📚 Currently Exploring
 
-`AI Agents` `Data Analytics` `Machine Learning` `DSA` `Open Source`
+- 🤖 AI Agents
+- 📊 Data Analytics
+- 🧠 Machine Learning
+- 💻 Data Structures & Algorithms
+- 🌍 Open Source
 
 ---
 
