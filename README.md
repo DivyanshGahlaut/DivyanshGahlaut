@@ -221,10 +221,6 @@ Real-time Computer Vision project
 
 ---
 
-# 🐍 Contribution Snake
-
-> After creating the GitHub Action, this image will appear automatically.
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/DivyanshGahlaut/DivyanshGahlaut/output/github-contribution-grid-snake.svg"/>
