@@ -1,40 +1,40 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Divyansh%20Gahlaut&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
 <div align="center">
 
 # 👋 Hi, I'm Divyansh Gahlaut
 
-### AI & Machine Learning Enthusiast | Data Analytics | Full Stack Developer
+### AI & Machine Learning Engineer | Data Analytics Enthusiast | Full Stack Developer
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Data+Analytics+Enthusiast;Full+Stack+Developer;Python+%7C+C%2B%2B+%7C+SQL;Always+Learning+and+Building+🚀" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Student;Building+Intelligent+Applications;Data+Analytics+Enthusiast;Python+%7C+C%2B%2B+%7C+SQL;FastAPI+%7C+React+Developer;Always+Learning+Something+New+🚀"/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=DivyanshGahlaut&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<br>
 
-<p>
-  <a href="https://www.linkedin.com/in/divyansh-gahlaut-89812a355/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
+<a href="https://www.linkedin.com/in/divyansh-gahlaut-89812a355/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-  <a href="mailto:divyanshgahlaut7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="mailto:divyanshgahlaut7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=DivyanshGahlaut&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-🎓 B.Tech Computer Science Engineering (AI & ML)
+🎓 **B.Tech Computer Science Engineering (AI & ML)**
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Software Development.
+💡 Passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Full Stack Development.
 
-🚀 I enjoy building real-world AI applications that combine machine learning with modern web technologies.
+⚡ I enjoy developing AI-powered applications and solving real-world problems using data.
 
-🌱 Currently learning
+🌱 **Currently Learning**
 
 - Advanced Data Structures & Algorithms
 - Machine Learning
@@ -43,47 +43,35 @@
 - React
 - System Design
 
-🎯 **Goal**
+🎯 **Career Goal**
 
-Become an AI Engineer / Data Scientist and contribute to impactful products powered by AI.
+To become an AI Engineer / Data Scientist and build impactful AI solutions.
 
 ---
 
 # 💻 Tech Stack
 
-### Programming Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,sql,html,css,javascript"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,sql"/>
 
-### AI / Machine Learning
-
-- Scikit-Learn
-- Pandas
-- NumPy
-- Matplotlib
-- TensorFlow (Learning)
-
-### Web Development
-
-<p>
 <img src="https://skillicons.dev/icons?i=react,fastapi,flask,firebase"/>
-</p>
 
-### Database
-
-<p>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-</p>
 
-### Tools
-
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
+
 </p>
 
-Power BI • Jupyter Notebook
+### AI / Data Science
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
+- TensorFlow (Learning)
+- Power BI
 
 ---
 
@@ -91,21 +79,21 @@ Power BI • Jupyter Notebook
 
 ## 🤖 HireAI
 
-AI-powered recruitment platform featuring:
+AI-powered recruitment platform with
 
 - Resume Parser
 - AI Resume Generator
+- Job Recommendation
 - Skill Assessment
 - Mock Interview
-- Job Recommendation
 
 **Tech:** Flask • Vue.js • Firebase • Gemini API
 
 ---
 
-## 🌦️ WeatherAI Dashboard
+## 🌦 WeatherAI Dashboard
 
-A machine learning weather prediction dashboard built using:
+Machine Learning powered weather prediction system
 
 - Random Forest
 - FastAPI
@@ -117,17 +105,17 @@ A machine learning weather prediction dashboard built using:
 
 ## 🎬 ReelSense AI
 
-An intelligent recommendation system using:
+Recommendation System using
 
 - Content-Based Filtering
 - Collaborative Filtering
-- Popularity-Based Ranking
+- Popularity Ranking
 
 ---
 
 ## ✋ Hand Gesture Recognition
 
-A real-time computer vision application using:
+Real-time Computer Vision project
 
 - OpenCV
 - MediaPipe
@@ -135,7 +123,7 @@ A real-time computer vision application using:
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -150,7 +138,9 @@ A real-time computer vision application using:
 # 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=DivyanshGahlaut&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -158,33 +148,46 @@ A real-time computer vision application using:
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshGahlaut&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-# 🏆 Certifications
+# 🏆 GitHub Trophies
 
-- 🏅 Microsoft Azure Fundamentals (AZ-900)
-- 🏅 Oracle Certified Professional – Data Science on OCI
-- 🏅 Google Foundations: Data, Data, Everywhere
-- 🏅 BSNL Industrial Training
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=DivyanshGahlaut&theme=tokyonight&no-frame=true&margin-w=15"/>
 
-# 📚 Currently Working On
-
-- 🤖 AI Agents
-- 📊 Data Analytics Projects
-- 🧠 Machine Learning Models
-- 💻 Data Structures & Algorithms
-- 🌍 Open Source Contributions
+</p>
 
 ---
 
-# 🌟 Fun Fact
+# 📚 Certifications
 
-> "I enjoy turning ideas into intelligent software using AI and data."
+🏅 Microsoft Azure Fundamentals (AZ-900)
+
+🏅 Oracle Certified Professional – Data Science on OCI
+
+🏅 Google Foundations: Data, Data, Everywhere
+
+🏅 BSNL Industrial Training
+
+---
+
+# 📖 Currently Working On
+
+🤖 AI Agents
+
+📊 Data Analytics Projects
+
+🧠 Machine Learning
+
+💻 DSA (LeetCode)
+
+🌍 Open Source
 
 ---
 
@@ -193,32 +196,49 @@ A real-time computer vision application using:
 <p align="center">
 
 <a href="https://www.linkedin.com/in/divyansh-gahlaut-89812a355/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:divyanshgahlaut7@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+
 </a>
 
 </p>
 
-<div align="center">
+<p align="center">
 
-📧 **Email:** **divyanshgahlaut7@gmail.com**
+📧 **divyanshgahlaut7@gmail.com**
 
-💼 **LinkedIn:**  
-**https://www.linkedin.com/in/divyansh-gahlaut-89812a355/**
+💼 **LinkedIn:** https://www.linkedin.com/in/divyansh-gahlaut-89812a355/
 
-</div>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> After creating the GitHub Action, this image will appear automatically.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/DivyanshGahlaut/DivyanshGahlaut/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-### *"Code • Learn • Build • Repeat"* 🚀
+### **"Code • Learn • Build • Repeat 🚀"**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
