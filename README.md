@@ -80,7 +80,7 @@ Scikit-Learn • Pandas • NumPy • Matplotlib • Power BI
 # 📊 GitHub Activity
 
 <p align="center">
-
+ 
 <img src="https://streak-stats.demolab.com?user=DivyanshGahlaut&theme=tokyonight&hide_border=true"/>
 
 </p>
