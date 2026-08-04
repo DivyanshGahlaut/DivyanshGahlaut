@@ -87,7 +87,6 @@ Scikit-Learn • Pandas • NumPy • Matplotlib • Power BI
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshGahlaut&theme=tokyo-night"/>
 
 </p>
 
